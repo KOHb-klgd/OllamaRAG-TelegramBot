@@ -11,7 +11,7 @@ load_dotenv()
 
 @dataclass
 class Config:
-    BOT_TOKEN: str = os.getenv("BOT_TOKEN", "8196044915:AAGSHGk9cNrJlkrb4VHe3HDfM4t__9Ry5BA")
+    BOT_TOKEN: str = os.getenv("BOT_TOKEN")
     PROXY_URL: str = os.getenv("PROXY_URL", None)  # Поддержка прокси через переменную окружения
     OLLAMA_MODEL: str = os.getenv("OLLAMA_MODEL", "bambucha/saiga-llama3")
 
