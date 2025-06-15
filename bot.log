@@ -1,0 +1,907 @@
+2025-06-15 18:06:43,610 - root - INFO - Бот запускается...
+2025-06-15 18:06:43,610 - aiogram.dispatcher - INFO - Start polling
+2025-06-15 18:06:43,787 - aiogram.dispatcher - INFO - Run polling for bot @A_Team_Help_Bot id=8196044915 - 'A-Team'
+2025-06-15 18:07:27,346 - root - INFO - Пользователь 285380278 начал работу с ботом.
+2025-06-15 18:07:27,609 - aiogram.event - INFO - Update id=205150966 is handled. Duration 263 ms by bot id=8196044915
+2025-06-15 18:07:48,125 - aiogram.event - INFO - Update id=205150967 is not handled. Duration 0 ms by bot id=8196044915
+2025-06-15 18:08:17,101 - aiogram.event - INFO - Update id=205150968 is not handled. Duration 0 ms by bot id=8196044915
+2025-06-15 18:09:02,262 - aiogram.event - INFO - Update id=205150969 is not handled. Duration 0 ms by bot id=8196044915
+2025-06-15 18:09:13,593 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-15 18:09:13,853 - aiogram.dispatcher - INFO - Polling stopped for bot @A_Team_Help_Bot id=8196044915 - 'A-Team'
+2025-06-15 18:09:16,519 - root - INFO - Бот запускается...
+2025-06-15 18:09:16,519 - aiogram.dispatcher - INFO - Start polling
+2025-06-15 18:09:16,665 - aiogram.dispatcher - INFO - Run polling for bot @A_Team_Help_Bot id=8196044915 - 'A-Team'
+2025-06-15 18:09:19,812 - aiogram.event - INFO - Update id=205150970 is not handled. Duration 0 ms by bot id=8196044915
+2025-06-15 18:09:24,242 - aiogram.event - INFO - Update id=205150971 is not handled. Duration 0 ms by bot id=8196044915
+2025-06-15 18:09:34,073 - aiogram.event - INFO - Update id=205150972 is not handled. Duration 0 ms by bot id=8196044915
+2025-06-15 18:21:13,577 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-15 18:21:13,832 - aiogram.dispatcher - INFO - Polling stopped for bot @A_Team_Help_Bot id=8196044915 - 'A-Team'
+2025-06-15 18:21:18,379 - root - INFO - Бот запускается...
+2025-06-15 18:21:18,379 - aiogram.dispatcher - INFO - Start polling
+2025-06-15 18:21:18,536 - aiogram.dispatcher - INFO - Run polling for bot @A_Team_Help_Bot id=8196044915 - 'A-Team'
+2025-06-15 18:23:33,090 - aiogram.event - INFO - Update id=205150973 is not handled. Duration 0 ms by bot id=8196044915
+2025-06-15 18:24:33,275 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-15 18:24:33,402 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-06-15 18:24:33,402 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8196044915)
+2025-06-15 18:24:33,528 - aiogram.dispatcher - INFO - Polling stopped for bot @A_Team_Help_Bot id=8196044915 - 'A-Team'
+2025-06-15 18:45:32,148 - root - INFO - Бот запускается...
+2025-06-15 18:45:32,148 - aiogram.dispatcher - INFO - Start polling
+2025-06-15 18:45:32,301 - aiogram.dispatcher - INFO - Run polling for bot @A_Team_Help_Bot id=8196044915 - 'A-Team'
+2025-06-15 18:45:45,301 - root - INFO - Пользователь 285380278 начал работу с ботом.
+2025-06-15 18:45:45,543 - aiogram.event - INFO - Update id=205150974 is handled. Duration 242 ms by bot id=8196044915
+2025-06-15 18:45:49,138 - aiogram.event - INFO - Update id=205150975 is not handled. Duration 0 ms by bot id=8196044915
+2025-06-15 18:45:55,063 - aiogram.event - INFO - Update id=205150976 is not handled. Duration 0 ms by bot id=8196044915
+2025-06-15 18:53:23,424 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-15 18:53:23,691 - aiogram.dispatcher - INFO - Polling stopped for bot @A_Team_Help_Bot id=8196044915 - 'A-Team'
+2025-06-15 21:11:11,138 - root - INFO - Бот запущен и готов к работе!
+2025-06-15 21:11:11,139 - aiogram.dispatcher - INFO - Start polling
+2025-06-15 21:11:11,623 - aiogram.dispatcher - INFO - Run polling for bot @A_Team_Help_Bot id=8196044915 - 'A-Team'
+2025-06-15 21:11:23,432 - root - INFO - Пользователь 285380278 включил режим свободного общения.
+2025-06-15 21:11:23,879 - aiogram.event - INFO - Update id=205150983 is handled. Duration 447 ms by bot id=8196044915
+2025-06-15 21:11:31,874 - root - INFO - Обработка сообщения пользователя 285380278: Привет
+2025-06-15 21:11:44,680 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-15 21:11:44,973 - root - INFO - Ответ сгенерирован для запроса: Привет
+2025-06-15 21:11:45,154 - aiogram.event - INFO - Update id=205150984 is handled. Duration 13279 ms by bot id=8196044915
+2025-06-15 21:11:54,400 - root - INFO - Пользователь 285380278 включил режим поиска по базе знаний.
+2025-06-15 21:11:54,555 - aiogram.event - INFO - Update id=205150985 is handled. Duration 156 ms by bot id=8196044915
+2025-06-15 21:12:06,497 - root - INFO - Обработка запроса пользователя 285380278: Не печатает датамакс
+2025-06-15 21:12:25,300 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 21:12:25,300 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 21:12:43,227 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 21:12:43,529 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 21:12:43,540 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 21:12:44,955 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-15 21:12:55,234 - root - INFO - Ответ сгенерирован для запроса: Не печатает датамакс
+2025-06-15 21:12:55,752 - aiogram.event - INFO - Update id=205150986 is handled. Duration 49255 ms by bot id=8196044915
+2025-06-15 21:30:37,913 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 21:30:37,929 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:30:38,083 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 21:30:38,138 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 21:30:38,167 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:30:38,256 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 21:30:38,295 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 21:30:38,344 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 21:30:38,483 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 21:30:38,505 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:30:38,517 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:30:38,580 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 21:30:38,668 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 21:30:38,710 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 21:30:38,722 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:30:38,747 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:30:38,761 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:30:38,775 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:30:38,787 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:30:38,860 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 21:30:38,950 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 21:30:38,984 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 21:30:39,034 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 21:30:39,071 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 21:30:39,106 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 21:30:45,505 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 21:30:45,505 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 21:30:53,081 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 21:30:53,100 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 21:30:53,105 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 21:30:53,109 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 21:31:13,046 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 21:31:13,055 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:31:13,120 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 21:31:13,145 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 21:31:13,158 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:31:13,199 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 21:31:13,213 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 21:31:13,239 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 21:31:13,317 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 21:31:13,329 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:31:13,336 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:31:13,364 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 21:31:13,428 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 21:31:13,445 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 21:31:13,453 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:31:13,467 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:31:13,475 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:31:13,484 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:31:13,490 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:31:13,530 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 21:31:13,583 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 21:31:13,593 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 21:31:13,637 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 21:31:13,668 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 21:31:13,679 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 21:31:20,048 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 21:31:20,048 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 21:31:27,426 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 21:31:27,456 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 21:31:27,462 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 21:31:27,465 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 21:55:08,299 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 21:55:08,309 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:08,373 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 21:55:08,406 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 21:55:08,420 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:08,470 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 21:55:08,484 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 21:55:08,508 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 21:55:08,590 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 21:55:08,602 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:08,608 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:08,637 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 21:55:08,702 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 21:55:08,722 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 21:55:08,729 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:08,743 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:08,755 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:08,765 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:08,773 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:08,818 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 21:55:08,871 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 21:55:08,883 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 21:55:08,932 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 21:55:08,964 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 21:55:08,975 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 21:55:15,243 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 21:55:15,244 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 21:55:23,051 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 21:55:23,261 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 21:55:23,268 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 21:55:23,283 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 21:55:37,563 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 21:55:37,573 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:37,637 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 21:55:37,662 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 21:55:37,673 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:37,718 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 21:55:37,732 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 21:55:37,755 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 21:55:37,839 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 21:55:37,850 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:37,857 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:37,885 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 21:55:37,950 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 21:55:37,968 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 21:55:37,975 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:37,989 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:37,998 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:38,007 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:38,014 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: soffice command was not found. Please install libreoffice
+on your system and try again.
+
+- Install instructions: https://www.libreoffice.org/get-help/install-howto/
+- Mac: https://formulae.brew.sh/cask/libreoffice
+- Debian: https://wiki.debian.org/LibreOffice
+2025-06-15 21:55:38,056 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 21:55:38,109 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 21:55:38,121 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 21:55:38,166 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 21:55:38,197 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 21:55:38,208 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 21:55:44,676 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 21:55:44,676 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 21:55:51,995 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 21:55:52,212 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 21:55:52,219 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 21:55:52,236 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 22:04:51,658 - root - ERROR - LibreOffice не установлен. Пожалуйста, установите LibreOffice для обработки файлов.
+2025-06-15 22:10:31,258 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 22:10:40,983 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: 'utf-8' codec can't decode byte 0xcf in position 87: invalid continuation byte
+2025-06-15 22:10:41,056 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 22:10:41,084 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 22:10:46,030 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: 'utf-8' codec can't decode byte 0xdd in position 88: invalid continuation byte
+2025-06-15 22:10:46,078 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 22:10:46,094 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 22:10:46,120 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 22:10:46,204 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 22:10:51,358 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:10:56,533 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:10:56,563 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 22:10:56,645 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 22:10:56,665 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 22:11:01,685 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:11:08,269 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:11:13,298 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:11:17,958 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:11:22,562 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:11:22,606 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 22:11:22,664 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 22:11:22,676 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 22:11:22,721 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 22:11:22,752 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 22:11:22,766 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 22:11:32,737 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 22:11:32,737 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 22:11:43,360 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 22:11:43,646 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 22:11:43,653 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 22:11:43,672 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 22:12:04,471 - root - INFO - Бот запущен и готов к работе!
+2025-06-15 22:12:04,472 - aiogram.dispatcher - INFO - Start polling
+2025-06-15 22:12:04,962 - aiogram.dispatcher - INFO - Run polling for bot @A_Team_Help_Bot id=8196044915 - 'A-Team'
+2025-06-15 22:39:18,725 - root - ERROR - Ошибка при загрузке файла documents\_ RACK - Замена трекбола на клавиатурах CSB.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:21,653 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: 'utf-8' codec can't decode byte 0xcf in position 87: invalid continuation byte
+2025-06-15 22:39:21,721 - root - ERROR - Ошибка при загрузке файла documents\_Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:21,747 - root - ERROR - Ошибка при загрузке файла documents\_CSBПереключение сканера из контроллера  напрямую в порт.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:25,680 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: 'utf-8' codec can't decode byte 0xdd in position 88: invalid continuation byte
+2025-06-15 22:39:25,726 - root - ERROR - Ошибка при загрузке файла documents\_SAP_Загрузка файлов в принтер DATAMAX.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:25,741 - root - ERROR - Ошибка при загрузке файла documents\_Загрузка картинок КИТ.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:25,767 - root - ERROR - Ошибка при загрузке файла documents\_Загрузка шрифтов КИТ.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:25,850 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция GoDex.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:25,858 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2025-06-15 22:39:25,861 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2025-06-15 22:39:25,891 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:25,963 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:25,982 - root - ERROR - Ошибка при загрузке файла documents\_Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:25,986 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2025-06-15 22:39:25,997 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2025-06-15 22:39:26,000 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2025-06-15 22:39:26,004 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2025-06-15 22:39:26,007 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2025-06-15 22:39:26,050 - root - ERROR - Ошибка при загрузке файла documents\_Настройка принтера DATMAX 4212.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:26,109 - root - ERROR - Ошибка при загрузке файла documents\_Настройка сканера Zebra DS3678 для работы в CSB_v2.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:26,122 - root - ERROR - Ошибка при загрузке файла documents\_Печать тестовой этикетки на принтере САВ.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:26,170 - root - ERROR - Ошибка при загрузке файла documents\_Прием веса с весов на рэках CSB_Для пользователей.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:26,208 - root - ERROR - Ошибка при загрузке файла documents\_Создание образов контролеров тип 3.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:26,221 - root - ERROR - Ошибка при загрузке файла documents\_Центровка шаблона CSB.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:39:26,221 - root - WARNING - Нет документов для обработки.
+2025-06-15 22:40:17,782 - root - ERROR - Ошибка при загрузке файла documents\_ RACK - Замена трекбола на клавиатурах CSB.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:18,699 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: 'utf-8' codec can't decode byte 0xcf in position 87: invalid continuation byte
+2025-06-15 22:40:18,768 - root - ERROR - Ошибка при загрузке файла documents\_Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:18,794 - root - ERROR - Ошибка при загрузке файла documents\_CSBПереключение сканера из контроллера  напрямую в порт.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:19,591 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: 'utf-8' codec can't decode byte 0xdd in position 88: invalid continuation byte
+2025-06-15 22:40:19,644 - root - ERROR - Ошибка при загрузке файла documents\_SAP_Загрузка файлов в принтер DATAMAX.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:19,659 - root - ERROR - Ошибка при загрузке файла documents\_Загрузка картинок КИТ.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:19,685 - root - ERROR - Ошибка при загрузке файла documents\_Загрузка шрифтов КИТ.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:19,765 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция GoDex.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:20,545 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:40:21,375 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:40:21,405 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:21,475 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:21,495 - root - ERROR - Ошибка при загрузке файла documents\_Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:22,184 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:40:22,953 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:40:23,646 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:40:24,335 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:40:25,005 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:40:25,048 - root - ERROR - Ошибка при загрузке файла documents\_Настройка принтера DATMAX 4212.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:25,102 - root - ERROR - Ошибка при загрузке файла documents\_Настройка сканера Zebra DS3678 для работы в CSB_v2.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:25,114 - root - ERROR - Ошибка при загрузке файла documents\_Печать тестовой этикетки на принтере САВ.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:25,159 - root - ERROR - Ошибка при загрузке файла documents\_Прием веса с весов на рэках CSB_Для пользователей.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:25,191 - root - ERROR - Ошибка при загрузке файла documents\_Создание образов контролеров тип 3.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:25,203 - root - ERROR - Ошибка при загрузке файла documents\_Центровка шаблона CSB.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:25,203 - root - WARNING - Нет документов для обработки.
+2025-06-15 22:40:53,598 - root - ERROR - Ошибка при загрузке файла documents\_ RACK - Замена трекбола на клавиатурах CSB.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:54,276 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: 'utf-8' codec can't decode byte 0xcf in position 87: invalid continuation byte
+2025-06-15 22:40:54,344 - root - ERROR - Ошибка при загрузке файла documents\_Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:54,370 - root - ERROR - Ошибка при загрузке файла documents\_CSBПереключение сканера из контроллера  напрямую в порт.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:55,131 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: 'utf-8' codec can't decode byte 0xdd in position 88: invalid continuation byte
+2025-06-15 22:40:55,176 - root - ERROR - Ошибка при загрузке файла documents\_SAP_Загрузка файлов в принтер DATAMAX.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:55,190 - root - ERROR - Ошибка при загрузке файла documents\_Загрузка картинок КИТ.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:55,214 - root - ERROR - Ошибка при загрузке файла documents\_Загрузка шрифтов КИТ.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:55,292 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция GoDex.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:56,023 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:40:56,811 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:40:56,840 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:56,908 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:56,926 - root - ERROR - Ошибка при загрузке файла documents\_Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:40:57,590 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:40:58,383 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:40:59,072 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:40:59,738 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:41:00,415 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:41:00,458 - root - ERROR - Ошибка при загрузке файла documents\_Настройка принтера DATMAX 4212.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:41:00,513 - root - ERROR - Ошибка при загрузке файла documents\_Настройка сканера Zebra DS3678 для работы в CSB_v2.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:41:00,525 - root - ERROR - Ошибка при загрузке файла documents\_Печать тестовой этикетки на принтере САВ.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:41:00,570 - root - ERROR - Ошибка при загрузке файла documents\_Прием веса с весов на рэках CSB_Для пользователей.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:41:00,602 - root - ERROR - Ошибка при загрузке файла documents\_Создание образов контролеров тип 3.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:41:00,614 - root - ERROR - Ошибка при загрузке файла documents\_Центровка шаблона CSB.docx: name 'DOCUMENT_URLS' is not defined
+2025-06-15 22:41:00,614 - root - WARNING - Нет документов для обработки.
+2025-06-15 22:41:17,900 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 22:41:18,581 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: 'utf-8' codec can't decode byte 0xcf in position 87: invalid continuation byte
+2025-06-15 22:41:18,649 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 22:41:18,677 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 22:41:19,446 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: 'utf-8' codec can't decode byte 0xdd in position 88: invalid continuation byte
+2025-06-15 22:41:19,492 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 22:41:19,508 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 22:41:19,533 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 22:41:19,615 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 22:41:20,355 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:41:21,150 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:41:21,179 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 22:41:21,245 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 22:41:21,263 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 22:41:21,945 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:41:22,712 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:41:23,392 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:41:24,081 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:41:24,759 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:41:24,804 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 22:41:24,858 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 22:41:24,870 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 22:41:24,918 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 22:41:24,951 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 22:41:24,964 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 22:41:31,839 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 22:41:31,839 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 22:41:39,307 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 22:41:39,524 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 22:41:39,529 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 22:41:39,546 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 22:43:30,770 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 22:43:31,429 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: 'utf-8' codec can't decode byte 0xcf in position 87: invalid continuation byte
+2025-06-15 22:43:31,495 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 22:43:31,522 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 22:43:32,272 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: 'utf-8' codec can't decode byte 0xdd in position 88: invalid continuation byte
+2025-06-15 22:43:32,319 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 22:43:32,333 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 22:43:32,357 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 22:43:32,438 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 22:43:33,162 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:43:33,940 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:43:33,969 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 22:43:34,034 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 22:43:34,052 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 22:43:34,678 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:43:35,425 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:43:36,078 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:43:36,726 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:43:37,361 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:43:37,411 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 22:43:37,465 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 22:43:37,477 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 22:43:37,521 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 22:43:37,552 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 22:43:37,564 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 22:43:44,036 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 22:43:44,036 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 22:43:51,390 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 22:43:51,589 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 22:43:51,596 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 22:43:51,612 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 22:48:11,776 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 22:48:12,670 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: 'utf-8' codec can't decode byte 0xcf in position 87: invalid continuation byte
+2025-06-15 22:48:19,046 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 22:48:19,373 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 22:48:24,407 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: 'utf-8' codec can't decode byte 0xdd in position 88: invalid continuation byte
+2025-06-15 22:48:26,043 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 22:48:26,849 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 22:48:27,254 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 22:48:31,563 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 22:48:40,812 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:48:41,991 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:48:43,543 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 22:49:23,842 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 22:49:24,422 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 22:49:26,433 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:49:40,167 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:49:42,450 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:49:45,111 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:49:47,459 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:49:49,515 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 22:49:55,066 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 22:49:55,578 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 22:49:57,750 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 22:49:58,776 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 22:50:01,292 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 22:50:10,149 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 22:50:10,149 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 22:50:19,032 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 22:50:19,300 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 22:50:19,308 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 22:50:19,337 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 22:50:46,484 - root - ERROR - Ошибка при чтении файла documents\_ RACK - Замена трекбола на клавиатурах CSB.docx: 'charmap' codec can't decode byte 0x98 in position 682: character maps to <undefined>
+2025-06-15 22:50:46,734 - root - ERROR - Ошибка при чтении файла documents\_10691 Проверка связи контроллера с весами.doc: 'charmap' codec can't decode byte 0x98 in position 4037: character maps to <undefined>
+2025-06-15 22:50:52,951 - root - ERROR - Ошибка при чтении файла documents\_Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx: 'charmap' codec can't decode byte 0x98 in position 1693: character maps to <undefined>
+2025-06-15 22:50:53,245 - root - ERROR - Ошибка при чтении файла documents\_CSBПереключение сканера из контроллера  напрямую в порт.docx: 'charmap' codec can't decode byte 0x98 in position 610: character maps to <undefined>
+2025-06-15 22:50:57,518 - root - ERROR - Ошибка при чтении файла documents\_RACK - Эксплуатация.doc: 'charmap' codec can't decode byte 0x98 in position 8240: character maps to <undefined>
+2025-06-15 22:50:58,964 - root - ERROR - Ошибка при чтении файла documents\_SAP_Загрузка файлов в принтер DATAMAX.docx: 'charmap' codec can't decode byte 0x98 in position 709: character maps to <undefined>
+2025-06-15 22:50:59,686 - root - ERROR - Ошибка при чтении файла documents\_Загрузка картинок КИТ.docx: 'charmap' codec can't decode byte 0x98 in position 609: character maps to <undefined>
+2025-06-15 22:51:00,059 - root - ERROR - Ошибка при чтении файла documents\_Загрузка шрифтов КИТ.docx: 'charmap' codec can't decode byte 0x98 in position 718: character maps to <undefined>
+2025-06-15 22:51:03,212 - root - ERROR - Ошибка при чтении файла documents\_Инструкция GoDex.docx: 'charmap' codec can't decode byte 0x98 in position 753: character maps to <undefined>
+2025-06-15 22:51:07,749 - root - ERROR - Ошибка при чтении файла documents\_Инструкция по настройке Nport администратора.doc: 'charmap' codec can't decode byte 0x98 in position 6908: character maps to <undefined>
+2025-06-15 22:51:07,950 - root - ERROR - Ошибка при чтении файла documents\_Инструкция по настройке весов Massa-K.doc: 'charmap' codec can't decode byte 0x98 in position 12014: character maps to <undefined>
+2025-06-15 22:51:08,745 - root - ERROR - Ошибка при чтении файла documents\_Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx: 'charmap' codec can't decode byte 0x98 in position 662: character maps to <undefined>
+2025-06-15 22:51:30,557 - root - ERROR - Ошибка при чтении файла documents\_Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx: 'charmap' codec can't decode byte 0x98 in position 909: character maps to <undefined>
+2025-06-15 22:51:30,844 - root - ERROR - Ошибка при чтении файла documents\_Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx: 'charmap' codec can't decode byte 0x98 in position 609: character maps to <undefined>
+2025-06-15 22:51:31,567 - root - ERROR - Ошибка при чтении файла documents\_Настройка весов IND 211.doc: 'charmap' codec can't decode byte 0x98 in position 3667: character maps to <undefined>
+2025-06-15 22:51:38,737 - root - ERROR - Ошибка при чтении файла documents\_Настройка весового терминала Bizerba ST.doc: 'charmap' codec can't decode byte 0x98 in position 7784: character maps to <undefined>
+2025-06-15 22:51:39,633 - root - ERROR - Ошибка при чтении файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: 'charmap' codec can't decode byte 0x98 in position 794: character maps to <undefined>
+2025-06-15 22:51:40,740 - root - ERROR - Ошибка при чтении файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: 'charmap' codec can't decode byte 0x98 in position 794: character maps to <undefined>
+2025-06-15 22:51:41,669 - root - ERROR - Ошибка при чтении файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: 'charmap' codec can't decode byte 0x98 in position 9256: character maps to <undefined>
+2025-06-15 22:51:42,737 - root - ERROR - Ошибка при чтении файла documents\_Настройка принтера DATMAX 4212.docx: 'charmap' codec can't decode byte 0x98 in position 718: character maps to <undefined>
+2025-06-15 22:51:45,738 - root - ERROR - Ошибка при чтении файла documents\_Настройка сканера Zebra DS3678 для работы в CSB_v2.docx: 'charmap' codec can't decode byte 0x98 in position 609: character maps to <undefined>
+2025-06-15 22:51:45,999 - root - ERROR - Ошибка при чтении файла documents\_Печать тестовой этикетки на принтере САВ.docx: 'charmap' codec can't decode byte 0x98 in position 896: character maps to <undefined>
+2025-06-15 22:51:47,117 - root - ERROR - Ошибка при чтении файла documents\_Прием веса с весов на рэках CSB_Для пользователей.docx: 'charmap' codec can't decode byte 0x98 in position 682: character maps to <undefined>
+2025-06-15 22:51:47,631 - root - ERROR - Ошибка при чтении файла documents\_Создание образов контролеров тип 3.docx: 'charmap' codec can't decode byte 0x98 in position 682: character maps to <undefined>
+2025-06-15 22:51:48,973 - root - ERROR - Ошибка при чтении файла documents\_Центровка шаблона CSB.docx: 'charmap' codec can't decode byte 0x98 in position 609: character maps to <undefined>
+2025-06-15 22:51:48,973 - root - WARNING - Нет документов для обработки.
+2025-06-15 22:54:38,730 - root - ERROR - Ошибка при чтении файла documents\_ RACK - Замена трекбола на клавиатурах CSB.docx: 'charmap' codec can't decode byte 0x98 in position 682: character maps to <undefined>
+2025-06-15 22:54:38,980 - root - ERROR - Ошибка при чтении файла documents\_10691 Проверка связи контроллера с весами.doc: 'charmap' codec can't decode byte 0x98 in position 4037: character maps to <undefined>
+2025-06-15 22:54:45,122 - root - ERROR - Ошибка при чтении файла documents\_Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx: 'charmap' codec can't decode byte 0x98 in position 1693: character maps to <undefined>
+2025-06-15 22:54:45,411 - root - ERROR - Ошибка при чтении файла documents\_CSBПереключение сканера из контроллера  напрямую в порт.docx: 'charmap' codec can't decode byte 0x98 in position 610: character maps to <undefined>
+2025-06-15 22:54:49,672 - root - ERROR - Ошибка при чтении файла documents\_RACK - Эксплуатация.doc: 'charmap' codec can't decode byte 0x98 in position 8240: character maps to <undefined>
+2025-06-15 22:54:51,262 - root - ERROR - Ошибка при чтении файла documents\_SAP_Загрузка файлов в принтер DATAMAX.docx: 'charmap' codec can't decode byte 0x98 in position 709: character maps to <undefined>
+2025-06-15 22:54:51,998 - root - ERROR - Ошибка при чтении файла documents\_Загрузка картинок КИТ.docx: 'charmap' codec can't decode byte 0x98 in position 609: character maps to <undefined>
+2025-06-15 22:54:52,373 - root - ERROR - Ошибка при чтении файла documents\_Загрузка шрифтов КИТ.docx: 'charmap' codec can't decode byte 0x98 in position 718: character maps to <undefined>
+2025-06-15 22:54:55,669 - root - ERROR - Ошибка при чтении файла documents\_Инструкция GoDex.docx: 'charmap' codec can't decode byte 0x98 in position 753: character maps to <undefined>
+2025-06-15 22:55:01,578 - root - ERROR - Ошибка при чтении файла documents\_Инструкция по настройке Nport администратора.doc: 'charmap' codec can't decode byte 0x98 in position 6908: character maps to <undefined>
+2025-06-15 22:55:01,957 - root - ERROR - Ошибка при чтении файла documents\_Инструкция по настройке весов Massa-K.doc: 'charmap' codec can't decode byte 0x98 in position 12014: character maps to <undefined>
+2025-06-15 22:55:03,452 - root - ERROR - Ошибка при чтении файла documents\_Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx: 'charmap' codec can't decode byte 0x98 in position 662: character maps to <undefined>
+2025-06-15 22:55:43,027 - root - ERROR - Ошибка при чтении файла documents\_Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx: 'charmap' codec can't decode byte 0x98 in position 909: character maps to <undefined>
+2025-06-15 22:55:43,340 - root - ERROR - Ошибка при чтении файла documents\_Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx: 'charmap' codec can't decode byte 0x98 in position 609: character maps to <undefined>
+2025-06-15 22:55:44,084 - root - ERROR - Ошибка при чтении файла documents\_Настройка весов IND 211.doc: 'charmap' codec can't decode byte 0x98 in position 3667: character maps to <undefined>
+2025-06-15 22:55:51,337 - root - ERROR - Ошибка при чтении файла documents\_Настройка весового терминала Bizerba ST.doc: 'charmap' codec can't decode byte 0x98 in position 7784: character maps to <undefined>
+2025-06-15 22:55:52,234 - root - ERROR - Ошибка при чтении файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: 'charmap' codec can't decode byte 0x98 in position 794: character maps to <undefined>
+2025-06-15 22:55:53,337 - root - ERROR - Ошибка при чтении файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: 'charmap' codec can't decode byte 0x98 in position 794: character maps to <undefined>
+2025-06-15 22:55:54,259 - root - ERROR - Ошибка при чтении файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: 'charmap' codec can't decode byte 0x98 in position 9256: character maps to <undefined>
+2025-06-15 22:55:55,333 - root - ERROR - Ошибка при чтении файла documents\_Настройка принтера DATMAX 4212.docx: 'charmap' codec can't decode byte 0x98 in position 718: character maps to <undefined>
+2025-06-15 22:55:58,310 - root - ERROR - Ошибка при чтении файла documents\_Настройка сканера Zebra DS3678 для работы в CSB_v2.docx: 'charmap' codec can't decode byte 0x98 in position 609: character maps to <undefined>
+2025-06-15 22:55:58,574 - root - ERROR - Ошибка при чтении файла documents\_Печать тестовой этикетки на принтере САВ.docx: 'charmap' codec can't decode byte 0x98 in position 896: character maps to <undefined>
+2025-06-15 22:55:59,700 - root - ERROR - Ошибка при чтении файла documents\_Прием веса с весов на рэках CSB_Для пользователей.docx: 'charmap' codec can't decode byte 0x98 in position 682: character maps to <undefined>
+2025-06-15 22:56:00,224 - root - ERROR - Ошибка при чтении файла documents\_Создание образов контролеров тип 3.docx: 'charmap' codec can't decode byte 0x98 in position 682: character maps to <undefined>
+2025-06-15 22:56:01,589 - root - ERROR - Ошибка при чтении файла documents\_Центровка шаблона CSB.docx: 'charmap' codec can't decode byte 0x98 in position 609: character maps to <undefined>
+2025-06-15 22:56:01,590 - root - WARNING - Нет документов для обработки.
+2025-06-15 22:56:12,282 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 22:56:13,212 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: 'utf-8' codec can't decode byte 0xcf in position 87: invalid continuation byte
+2025-06-15 22:56:19,663 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 22:56:19,987 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 22:56:25,122 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: 'utf-8' codec can't decode byte 0xdd in position 88: invalid continuation byte
+2025-06-15 22:56:26,776 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 22:56:27,566 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 22:56:27,967 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 22:56:32,388 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 22:56:41,878 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:56:43,000 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:56:44,556 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 22:57:15,914 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 22:57:16,222 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 22:57:17,618 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:57:25,598 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:57:27,155 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:57:28,863 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:57:30,415 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:57:31,519 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 22:57:34,536 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 22:57:34,807 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 22:57:35,989 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 22:57:36,529 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 22:57:37,883 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 22:57:44,357 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 22:57:44,357 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 22:57:51,590 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 22:57:51,791 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 22:57:51,799 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 22:57:51,815 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 22:58:13,301 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 22:58:13,970 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: 'utf-8' codec can't decode byte 0xcf in position 87: invalid continuation byte
+2025-06-15 22:58:14,037 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 22:58:14,063 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 22:58:14,835 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: 'utf-8' codec can't decode byte 0xdd in position 88: invalid continuation byte
+2025-06-15 22:58:14,877 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 22:58:14,891 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 22:58:14,918 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 22:58:14,997 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 22:58:15,717 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:58:16,468 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:58:16,496 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 22:58:16,563 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 22:58:16,580 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 22:58:17,208 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:58:17,962 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:58:18,629 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:58:19,280 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:58:19,926 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:58:19,966 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 22:58:20,017 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 22:58:20,030 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 22:58:20,078 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 22:58:20,110 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 22:58:20,120 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 22:58:26,447 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 22:58:26,447 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 22:58:33,429 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 22:58:33,445 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 22:58:33,450 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 22:58:33,453 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 22:59:44,491 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 22:59:45,156 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: 'utf-8' codec can't decode byte 0xcf in position 87: invalid continuation byte
+2025-06-15 22:59:45,223 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 22:59:45,250 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 22:59:46,015 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: 'utf-8' codec can't decode byte 0xdd in position 88: invalid continuation byte
+2025-06-15 22:59:46,063 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 22:59:46,077 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 22:59:46,102 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 22:59:46,182 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 22:59:46,915 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:59:47,663 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 22:59:47,690 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 22:59:47,752 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 22:59:47,771 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 22:59:48,401 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:59:49,145 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:59:49,794 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:59:50,439 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:59:51,082 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 22:59:51,126 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 22:59:51,181 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 22:59:51,192 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 22:59:51,238 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 22:59:51,268 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 22:59:51,279 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 22:59:57,584 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 22:59:57,584 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 23:00:05,156 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 23:00:05,177 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 23:00:05,358 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 23:00:05,373 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 23:02:43,020 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 23:02:43,943 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: 'utf-8' codec can't decode byte 0xcf in position 87: invalid continuation byte
+2025-06-15 23:02:50,331 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 23:02:50,649 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 23:02:55,651 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: 'utf-8' codec can't decode byte 0xdd in position 88: invalid continuation byte
+2025-06-15 23:02:57,170 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 23:02:57,933 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 23:02:58,333 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 23:03:01,738 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 23:03:07,365 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 23:03:08,367 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: 'utf-8' codec can't decode byte 0xc8 in position 81: invalid continuation byte
+2025-06-15 23:03:09,233 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 23:03:37,330 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 23:03:37,647 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 23:03:39,090 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 23:03:47,449 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 23:03:49,346 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 23:03:52,013 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 23:03:54,365 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: 'utf-8' codec can't decode byte 0xcd in position 81: invalid continuation byte
+2025-06-15 23:03:56,059 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 23:03:59,244 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 23:03:59,515 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 23:04:00,669 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 23:04:01,213 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 23:04:02,568 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 23:04:09,053 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 23:04:09,053 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 23:04:16,666 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 23:04:16,867 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 23:04:16,874 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 23:04:16,889 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 23:07:39,671 - root - ERROR - Ошибка при загрузке файла documents\_ RACK - Замена трекбола на клавиатурах CSB.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:39,681 - root - ERROR - Ошибка при загрузке файла documents\_10691 Проверка связи контроллера с весами.doc: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:39,841 - root - ERROR - Ошибка при загрузке файла documents\_Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:39,851 - root - ERROR - Ошибка при загрузке файла documents\_CSBПереключение сканера из контроллера  напрямую в порт.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:39,962 - root - ERROR - Ошибка при загрузке файла documents\_RACK - Эксплуатация.doc: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,009 - root - ERROR - Ошибка при загрузке файла documents\_SAP_Загрузка файлов в принтер DATAMAX.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,029 - root - ERROR - Ошибка при загрузке файла documents\_Загрузка картинок КИТ.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,039 - root - ERROR - Ошибка при загрузке файла documents\_Загрузка шрифтов КИТ.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,121 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция GoDex.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,239 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке Nport администратора.doc: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,247 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по настройке весов Massa-K.doc: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,271 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,661 - root - ERROR - Ошибка при загрузке файла documents\_Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,670 - root - ERROR - Ошибка при загрузке файла documents\_Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,694 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весов IND 211.doc: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,868 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала Bizerba ST.doc: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,900 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 331 для работы с системой CSB.doc: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,928 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весового терминала IND 429 для работы с системой CSB.doc: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,960 - root - ERROR - Ошибка при загрузке файла documents\_Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:40,985 - root - ERROR - Ошибка при загрузке файла documents\_Настройка принтера DATMAX 4212.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:41,062 - root - ERROR - Ошибка при загрузке файла documents\_Настройка сканера Zebra DS3678 для работы в CSB_v2.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:41,069 - root - ERROR - Ошибка при загрузке файла documents\_Печать тестовой этикетки на принтере САВ.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:41,096 - root - ERROR - Ошибка при загрузке файла documents\_Прием веса с весов на рэках CSB_Для пользователей.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:41,107 - root - ERROR - Ошибка при загрузке файла documents\_Создание образов контролеров тип 3.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:41,145 - root - ERROR - Ошибка при загрузке файла documents\_Центровка шаблона CSB.docx: 'NoneType' object has no attribute 'encoding'
+2025-06-15 23:07:41,145 - root - WARNING - Нет документов для обработки.
+2025-06-15 23:09:58,035 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 23:09:58,098 - root - WARNING - Не удалось определить кодировку файла _10691 Проверка связи контроллера с весами.doc. Пропускаем.
+2025-06-15 23:09:58,168 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 23:09:58,194 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 23:09:58,305 - root - WARNING - Не удалось определить кодировку файла _RACK - Эксплуатация.doc. Пропускаем.
+2025-06-15 23:09:58,348 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 23:09:58,362 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 23:09:58,388 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 23:09:58,468 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 23:09:58,586 - root - WARNING - Не удалось определить кодировку файла _Инструкция по настройке Nport администратора.doc. Пропускаем.
+2025-06-15 23:09:58,594 - root - WARNING - Не удалось определить кодировку файла _Инструкция по настройке весов Massa-K.doc. Пропускаем.
+2025-06-15 23:09:58,623 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 23:09:58,690 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 23:09:58,710 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 23:09:58,726 - root - WARNING - Не удалось определить кодировку файла _Настройка весов IND 211.doc. Пропускаем.
+2025-06-15 23:09:58,925 - root - WARNING - Не удалось определить кодировку файла _Настройка весового терминала Bizerba ST.doc. Пропускаем.
+2025-06-15 23:09:58,944 - root - WARNING - Не удалось определить кодировку файла _Настройка весового терминала IND 331 для работы с системой CSB.doc. Пропускаем.
+2025-06-15 23:09:58,972 - root - WARNING - Не удалось определить кодировку файла _Настройка весового терминала IND 429 для работы с системой CSB.doc. Пропускаем.
+2025-06-15 23:09:58,991 - root - WARNING - Не удалось определить кодировку файла _Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc. Пропускаем.
+2025-06-15 23:09:59,033 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 23:09:59,085 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 23:09:59,097 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 23:09:59,142 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 23:09:59,173 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 23:09:59,185 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 23:10:05,390 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 23:10:05,390 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 23:10:15,034 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 23:10:15,257 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 23:10:15,262 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 23:10:15,279 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 23:12:40,783 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 23:12:40,794 - root - INFO - Файл _10691 Проверка связи контроллера с весами.docx успешно загружен.
+2025-06-15 23:12:40,859 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 23:12:40,883 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 23:12:41,068 - root - WARNING - Не удалось определить кодировку файла _RACK - Эксплуатация.doc. Пропускаем.
+2025-06-15 23:12:41,110 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 23:12:41,123 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 23:12:41,148 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 23:12:41,223 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 23:12:41,335 - root - WARNING - Не удалось определить кодировку файла _Инструкция по настройке Nport администратора.doc. Пропускаем.
+2025-06-15 23:12:41,343 - root - WARNING - Не удалось определить кодировку файла _Инструкция по настройке весов Massa-K.doc. Пропускаем.
+2025-06-15 23:12:41,371 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 23:12:41,435 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 23:12:41,454 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 23:12:41,470 - root - WARNING - Не удалось определить кодировку файла _Настройка весов IND 211.doc. Пропускаем.
+2025-06-15 23:12:41,642 - root - WARNING - Не удалось определить кодировку файла _Настройка весового терминала Bizerba ST.doc. Пропускаем.
+2025-06-15 23:12:41,660 - root - WARNING - Не удалось определить кодировку файла _Настройка весового терминала IND 331 для работы с системой CSB.doc. Пропускаем.
+2025-06-15 23:12:41,687 - root - WARNING - Не удалось определить кодировку файла _Настройка весового терминала IND 429 для работы с системой CSB.doc. Пропускаем.
+2025-06-15 23:12:41,706 - root - WARNING - Не удалось определить кодировку файла _Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc. Пропускаем.
+2025-06-15 23:12:41,748 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 23:12:41,800 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 23:12:41,811 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 23:12:41,855 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 23:12:41,885 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 23:12:41,896 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 23:12:48,168 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 23:12:48,168 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 23:12:56,295 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 23:12:56,507 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 23:12:56,513 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 23:12:56,529 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 23:16:12,221 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 23:16:12,232 - root - INFO - Файл _10691 Проверка связи контроллера с весами.docx успешно загружен.
+2025-06-15 23:16:12,298 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 23:16:12,324 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 23:16:12,520 - root - WARNING - Не удалось определить кодировку файла _RACK - Эксплуатация.doc. Пропускаем.
+2025-06-15 23:16:12,562 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 23:16:12,575 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 23:16:12,598 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 23:16:12,674 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 23:16:12,800 - root - WARNING - Не удалось определить кодировку файла _Инструкция по настройке Nport администратора.doc. Пропускаем.
+2025-06-15 23:16:12,854 - root - INFO - Файл _Инструкция по настройке Nport администратора.docx успешно загружен.
+2025-06-15 23:16:12,863 - root - WARNING - Не удалось определить кодировку файла _Инструкция по настройке весов Massa-K.doc. Пропускаем.
+2025-06-15 23:16:12,956 - root - INFO - Файл _Инструкция по настройке весов Massa-K.docx успешно загружен.
+2025-06-15 23:16:12,984 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 23:16:13,047 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 23:16:13,065 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 23:16:13,082 - root - WARNING - Не удалось определить кодировку файла _Настройка весов IND 211.doc. Пропускаем.
+2025-06-15 23:16:13,104 - root - INFO - Файл _Настройка весов IND 211.docx успешно загружен.
+2025-06-15 23:16:13,288 - root - WARNING - Не удалось определить кодировку файла _Настройка весового терминала Bizerba ST.doc. Пропускаем.
+2025-06-15 23:16:13,393 - root - INFO - Файл _Настройка весового терминала Bizerba ST.docx успешно загружен.
+2025-06-15 23:16:13,414 - root - WARNING - Не удалось определить кодировку файла _Настройка весового терминала IND 331 для работы с системой CSB.doc. Пропускаем.
+2025-06-15 23:16:13,484 - root - INFO - Файл _Настройка весового терминала IND 331 для работы с системой CSB.docx успешно загружен.
+2025-06-15 23:16:13,513 - root - WARNING - Не удалось определить кодировку файла _Настройка весового терминала IND 429 для работы с системой CSB.doc. Пропускаем.
+2025-06-15 23:16:13,574 - root - INFO - Файл _Настройка весового терминала IND 429 для работы с системой CSB.docx успешно загружен.
+2025-06-15 23:16:13,594 - root - WARNING - Не удалось определить кодировку файла _Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc. Пропускаем.
+2025-06-15 23:16:13,629 - root - INFO - Файл _Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).docx успешно загружен.
+2025-06-15 23:16:13,670 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 23:16:13,726 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 23:16:13,737 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 23:16:13,785 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 23:16:13,815 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 23:16:13,825 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 23:16:20,404 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 23:16:20,404 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 23:16:29,860 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 23:16:29,880 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 23:16:29,886 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 23:16:29,911 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 23:35:19,359 - root - INFO - Файл _ RACK - Замена трекбола на клавиатурах CSB.docx успешно загружен.
+2025-06-15 23:35:19,370 - root - INFO - Файл _10691 Проверка связи контроллера с весами.docx успешно загружен.
+2025-06-15 23:35:19,436 - root - INFO - Файл _Bizerba_is30(RS232)_инструкция_по_подкючению_к_CSB.docx успешно загружен.
+2025-06-15 23:35:19,461 - root - INFO - Файл _CSBПереключение сканера из контроллера  напрямую в порт.docx успешно загружен.
+2025-06-15 23:35:19,645 - root - WARNING - Не удалось определить кодировку файла _RACK - Эксплуатация.doc. Пропускаем.
+2025-06-15 23:35:19,690 - root - INFO - Файл _SAP_Загрузка файлов в принтер DATAMAX.docx успешно загружен.
+2025-06-15 23:35:19,703 - root - INFO - Файл _Загрузка картинок КИТ.docx успешно загружен.
+2025-06-15 23:35:19,727 - root - INFO - Файл _Загрузка шрифтов КИТ.docx успешно загружен.
+2025-06-15 23:35:19,810 - root - INFO - Файл _Инструкция GoDex.docx успешно загружен.
+2025-06-15 23:35:19,929 - root - WARNING - Не удалось определить кодировку файла _Инструкция по настройке Nport администратора.doc. Пропускаем.
+2025-06-15 23:35:19,979 - root - INFO - Файл _Инструкция по настройке Nport администратора.docx успешно загружен.
+2025-06-15 23:35:19,987 - root - WARNING - Не удалось определить кодировку файла _Инструкция по настройке весов Massa-K.doc. Пропускаем.
+2025-06-15 23:35:20,089 - root - INFO - Файл _Инструкция по настройке весов Massa-K.docx успешно загружен.
+2025-06-15 23:35:20,124 - root - INFO - Файл _Инструкция по переключению весов Тензо-М между CSB и Логистикой.docx успешно загружен.
+2025-06-15 23:35:20,189 - root - INFO - Файл _Инструкция по подготовке ТСД WT6300 к работе с КИТЛ.docx успешно загружен.
+2025-06-15 23:35:20,208 - root - INFO - Файл _Калибровка сенсорного экрана Windows 10 планшета или ноутбука.docx успешно загружен.
+2025-06-15 23:35:20,225 - root - WARNING - Не удалось определить кодировку файла _Настройка весов IND 211.doc. Пропускаем.
+2025-06-15 23:35:20,248 - root - INFO - Файл _Настройка весов IND 211.docx успешно загружен.
+2025-06-15 23:35:20,419 - root - WARNING - Не удалось определить кодировку файла _Настройка весового терминала Bizerba ST.doc. Пропускаем.
+2025-06-15 23:35:20,520 - root - INFO - Файл _Настройка весового терминала Bizerba ST.docx успешно загружен.
+2025-06-15 23:35:20,539 - root - WARNING - Не удалось определить кодировку файла _Настройка весового терминала IND 331 для работы с системой CSB.doc. Пропускаем.
+2025-06-15 23:35:20,608 - root - INFO - Файл _Настройка весового терминала IND 331 для работы с системой CSB.docx успешно загружен.
+2025-06-15 23:35:20,636 - root - WARNING - Не удалось определить кодировку файла _Настройка весового терминала IND 429 для работы с системой CSB.doc. Пропускаем.
+2025-06-15 23:35:20,698 - root - INFO - Файл _Настройка весового терминала IND 429 для работы с системой CSB.docx успешно загружен.
+2025-06-15 23:35:20,717 - root - WARNING - Не удалось определить кодировку файла _Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).doc. Пропускаем.
+2025-06-15 23:35:20,753 - root - INFO - Файл _Настройка весовых терминалов Mettler-Toledo (ОФОРМТИТЬ).docx успешно загружен.
+2025-06-15 23:35:20,794 - root - INFO - Файл _Настройка принтера DATMAX 4212.docx успешно загружен.
+2025-06-15 23:35:20,848 - root - INFO - Файл _Настройка сканера Zebra DS3678 для работы в CSB_v2.docx успешно загружен.
+2025-06-15 23:35:20,859 - root - INFO - Файл _Печать тестовой этикетки на принтере САВ.docx успешно загружен.
+2025-06-15 23:35:20,902 - root - INFO - Файл _Прием веса с весов на рэках CSB_Для пользователей.docx успешно загружен.
+2025-06-15 23:35:20,934 - root - INFO - Файл _Создание образов контролеров тип 3.docx успешно загружен.
+2025-06-15 23:35:20,945 - root - INFO - Файл _Центровка шаблона CSB.docx успешно загружен.
+2025-06-15 23:35:27,641 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda:0
+2025-06-15 23:35:27,641 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: intfloat/multilingual-e5-large
+2025-06-15 23:35:37,774 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-06-15 23:35:37,802 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-06-15 23:35:37,810 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-15 23:35:37,856 - root - INFO - Векторная база данных успешно создана!
+2025-06-15 23:36:38,009 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-15 23:36:38,278 - aiogram.dispatcher - INFO - Polling stopped for bot @A_Team_Help_Bot id=8196044915 - 'A-Team'

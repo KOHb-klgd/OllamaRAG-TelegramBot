@@ -1,0 +1,10 @@
+aiogram
+python-dotenv
+colorlog
+langchain-community
+langchain-huggingface
+langchain-ollama
+faiss-cpu
+transformers
+sentence-transformers
+langchain-unstructured
