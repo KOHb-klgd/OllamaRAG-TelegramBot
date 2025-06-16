@@ -130,3 +130,5 @@
 Установите их с помощью команды:
   ```bash
   pip install -r requirements.txt
+
+
