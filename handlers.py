@@ -5,7 +5,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.enums import ParseMode
 from aiogram.utils.chat_action import ChatActionSender
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
-from typing import Dict
+from typing import Dict, List
 from config import Config, logger
 from utils import generate_response
 
@@ -28,6 +28,49 @@ def get_main_keyboard() -> ReplyKeyboardMarkup:
         ],
         resize_keyboard=True,
     )
+
+
+async def send_long_message(message: types.Message, text: str, max_length: int = 4096):
+    """
+    Отправляет длинное сообщение частями.
+    """
+    for i in range(0, len(text), max_length):
+        chunk = text[i:i + max_length]
+        await message.answer(chunk)
+
+
+async def send_citation_chunks(message: types.Message, chunks_info: List[Dict]):
+    """
+    Отправляет цитируемые чанки, цитируя только первые три предложения каждого чанка.
+    """
+    if not chunks_info:
+        await message.answer("Нет цитат для отображения.")
+        return
+
+    # Отправляем заголовок для цитат
+    await message.answer("📚 **Релевантные цитаты:**", parse_mode=ParseMode.MARKDOWN)
+
+    for chunk in chunks_info:
+        source = chunk.get("source", "Неизвестный источник")
+        section = chunk.get("section", "Неизвестный раздел")
+        content = chunk.get("content", "Нет данных")
+
+        # Ограничиваем текст чанка первыми тремя предложениями
+        sentences = content.split('.')
+        first_three_sentences = '.'.join(sentences[:3]) + '.'  # Берем первые три предложения и добавляем точку
+
+        # Формируем текст цитаты
+        citation_text = f"📄 **Источник:** {source}\n"
+        citation_text += f"🔖 **Раздел:** {section}\n"
+        citation_text += f"📝 **Текст:** {first_three_sentences}\n"
+
+        # Проверяем длину текста
+        if len(citation_text) > 4096:
+            # Если текст слишком длинный, отправляем его частями
+            await send_long_message(message, citation_text)
+        else:
+            # Если текст в пределах лимита, отправляем как есть
+            await message.answer(citation_text, parse_mode=ParseMode.MARKDOWN)
 
 
 def register_handlers(dp: Dispatcher) -> None:
@@ -83,8 +126,24 @@ def register_handlers(dp: Dispatcher) -> None:
 
         async with ChatActionSender.typing(bot=bot, chat_id=message.chat.id):
             logger.info(f"Обработка запроса пользователя {user_id}: {message.text}")
-            response = await generate_response(message.text, use_context=True)
+            
+            # Получаем результат от generate_response
+            result = await generate_response(message.text, use_context=True)
+            
+            # Если результат содержит два значения (ответ и чанки)
+            if isinstance(result, tuple) and len(result) == 2:
+                response, chunks_info = result
+            else:
+                # Если результат содержит только ответ
+                response = result
+                chunks_info = []
+
+            # Отправляем ответ от LLM
             await message.answer(response, reply_markup=get_main_keyboard())
+
+            # Отправляем информацию о чанках (первые три наиболее релевантных)
+            if chunks_info:
+                await send_citation_chunks(message, chunks_info[:3])
 
     @dp.message(UserStates.IN_CHAT_MODE)
     async def process_chat_message(message: types.Message, bot: Bot):
