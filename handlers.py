@@ -126,22 +126,14 @@ def register_handlers(dp: Dispatcher) -> None:
 
         async with ChatActionSender.typing(bot=bot, chat_id=message.chat.id):
             logger.info(f"Обработка запроса пользователя {user_id}: {message.text}")
-            
-            # Получаем результат от generate_response
-            result = await generate_response(message.text, use_context=True)
-            
-            # Если результат содержит два значения (ответ и чанки)
-            if isinstance(result, tuple) and len(result) == 2:
-                response, chunks_info = result
-            else:
-                # Если результат содержит только ответ
-                response = result
-                chunks_info = []
+
+            # Получаем ответ от LLM и цитируемые чанки
+            response, chunks_info = await generate_response(message.text, use_context=True)
 
             # Отправляем ответ от LLM
             await message.answer(response, reply_markup=get_main_keyboard())
 
-            # Отправляем информацию о чанках (первые три наиболее релевантных)
+            # Отправляем цитируемые чанки
             if chunks_info:
                 await send_citation_chunks(message, chunks_info[:3])
 
@@ -156,5 +148,5 @@ def register_handlers(dp: Dispatcher) -> None:
 
         async with ChatActionSender.typing(bot=bot, chat_id=message.chat.id):
             logger.info(f"Обработка сообщения пользователя {user_id}: {message.text}")
-            response = await generate_response(message.text, use_context=False)
+            response, _ = await generate_response(message.text, use_context=False)
             await message.answer(response, reply_markup=get_main_keyboard())
